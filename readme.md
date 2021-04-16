@@ -28,6 +28,7 @@ the help of their finger tips and even choose colours !
 ## Project structure
 
 ```
+To be updated soon....
 ```
 
 ## Getting started
@@ -118,6 +119,3 @@ Contributing is also a great way to learn more about social coding on Github, ne
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- 
